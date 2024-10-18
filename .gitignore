@@ -1,0 +1,6 @@
+build/extensions/*.dll
+build/extensions/*.json
+build/extensions/*.pdb
+build/Release/
+Tool-Console/src/obj/
+Tool-Extension-Admin/src/obj/
