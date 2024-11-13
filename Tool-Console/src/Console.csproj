@@ -63,7 +63,10 @@
 
   <ItemGroup>
     <Reference Include="Landis.Library.Metadata-v2">
-      <HintPath>lib\Landis.Library.Metadata-v2.dll</HintPath>
+      <HintPath>..\..\build\extensions\Landis.Library.Metadata-v2.dll</HintPath>
+    </Reference>
+    <Reference Include="Landis.Extension.OriginalFire-v5.dll">
+      <HintPath>..\..\build\extensions\Landis.Extension.OriginalFire-v5.dll</HintPath>
     </Reference>
   </ItemGroup>
 
